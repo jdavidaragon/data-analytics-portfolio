@@ -5,6 +5,9 @@
   <img src="images/product-profitability.png" width="49%">
 </p>
 
+<p align="center">
+  <img src="images/data_model.png" width="80%">
+</p>
 ## Overview
 
 This project presents an end-to-end sales and profitability analysis built in Microsoft Power BI using the AdventureWorks sample database.
